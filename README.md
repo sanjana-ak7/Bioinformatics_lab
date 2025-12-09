@@ -2,7 +2,6 @@
 
 This repository contains a collection of **Python-based bioinformatics workflows** developed and executed using **Google Colab**. Each notebook demonstrates the implementation of essential computational biology techniques used in molecular biology, genomics, and sequence analysis.
 
----
 
 ## Contents of the Repository
 
@@ -29,7 +28,6 @@ This repository contains a collection of **Python-based bioinformatics workflows
 - Workflow for identifying **restriction enzyme cutting sites**.
 - Generates digital restriction maps for given DNA sequences.
 
----
 
 ## Tools and Technologies Used
 
@@ -39,7 +37,6 @@ This repository contains a collection of **Python-based bioinformatics workflows
 - **NCBI Databases/APIs**
 - **Sequence Analysis Libraries**
 
----
 
 ## How to Use This Repository
 
@@ -48,7 +45,6 @@ This repository contains a collection of **Python-based bioinformatics workflows
 3. Execute the cells sequentially in Google Colab.
 4. Modify input data or parameters as required for your analysis.
 
----
 
 ## Purpose of This Repository
 
@@ -59,7 +55,6 @@ This repository is intended to serve as:
 - A learning aid for students and researchers in computational biology.
 - A reproducible set of workflows suitable for academic use.
 
----
 
 ## Author
 
