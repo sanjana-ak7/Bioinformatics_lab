@@ -1,78 +1,68 @@
-Bioinformatics Laboratory Work – Google Colab Workflows
+# Bioinformatics Laboratory Work – Google Colab Workflows
 
-This repository contains a collection of Python-based bioinformatics workflows developed and executed using Google Colab. Each notebook demonstrates the implementation of key computational biology techniques used in molecular biology, genomics, and sequence analysis.
+This repository contains a collection of **Python-based bioinformatics workflows** developed and executed using **Google Colab**. Each notebook demonstrates the implementation of essential computational biology techniques used in molecular biology, genomics, and sequence analysis.
 
-Contents of the Repository
-1. Retrieval of Biological Data
+---
 
-Workflow for retrieving sequence, structure, and NGS data.
+## Contents of the Repository
 
-Data sources include GenBank, PDB, Zenodo, SRA, and ENA.
+### 1. **Retrieval of Biological Data**
+- Workflow for retrieving **sequence, structure, and NGS data**.
+- Data sources include **GenBank, PDB, Zenodo, SRA, and ENA**.
 
-2. Retrieval of Medical Imaging Records
+### 2. **Retrieval of Medical Imaging Records**
+- Workflow demonstrating retrieval of **biological and medical imaging datasets** from remote repositories.
 
-Workflow demonstrating the retrieval of biological and medical imaging datasets from remote repositories.
+### 3. **Metagenomic Analysis**
+- Basic workflow for processing **environmental and microbiome datasets**.
+- Includes sequence handling and preliminary analysis steps.
 
-3. Metagenomic Analysis
+### 4. **Primer Designing**
+- Step-by-step workflow for designing **PCR primers** using Python-based tools.
+- Includes parameter selection, primer construction, and validation.
 
-Basic workflow for processing environmental and microbiome datasets.
+### 5. **Sequence Alignment**
+- Workflow covering **pairwise and multiple sequence alignment**.
+- Demonstrates alignment algorithms, scoring matrices, and interpretation of results.
 
-Includes steps for sequence handling and preliminary analysis.
+### 6. **Restriction Mapping**
+- Workflow for identifying **restriction enzyme cutting sites**.
+- Generates digital restriction maps for given DNA sequences.
 
-4. Primer Designing
+---
 
-Step-by-step workflow for designing PCR primers using Python-based tools.
+## Tools and Technologies Used
 
-Includes primer construction, validation, and parameter considerations.
+- **Google Colab**
+- **Python 3**
+- **BioPython**
+- **NCBI Databases/APIs**
+- **Sequence Analysis Libraries**
 
-5. Sequence Alignment
+---
 
-Workflow covering pairwise and multiple sequence alignment.
+## How to Use This Repository
 
-Demonstrates scoring matrices, alignment algorithms, and result interpretation.
+1. Open any `.ipynb` notebook from the repository.
+2. Click **“Open in Colab”** (if available) to run the notebook interactively.
+3. Execute the cells sequentially in Google Colab.
+4. Modify input data or parameters as required for your analysis.
 
-6. Restriction Mapping
+---
 
-Workflow for identifying restriction enzyme cleavage sites.
+## Purpose of This Repository
 
-Generates digital restriction maps for given DNA sequences.
+This repository is intended to serve as:
 
-Tools and Technologies Used
+- A structured record of **bioinformatics laboratory exercises**.
+- A reference resource for **Python-based biological data analysis**.
+- A learning aid for students and researchers in computational biology.
+- A reproducible set of workflows suitable for academic use.
 
-Google Colab
+---
 
-Python 3
+## Author
 
-BioPython
-
-NCBI Databases/APIs
-
-Sequence Analysis Libraries
-
-How to Use This Repository
-
-Open any .ipynb notebook in the repository.
-
-Select "Open in Colab" (if available) to run the notebook interactively.
-
-Execute each cell sequentially in Google Colab.
-
-Modify input data or parameters as required for analysis.
-
-Purpose of This Repository
-
-This repository serves as:
-
-A structured record of bioinformatics laboratory exercises.
-
-A reference for Python-based biological data analysis workflows.
-
-A learning resource for students and researchers in computational biology.
-
-A reproducible set of notebooks suitable for academic use.
-
-Author
-
-Sanjana Kadpodkar
-Department of Biotechnology
+**Sanjana Kadpodkar**  
+Department of Biotechnology  
 RV College of Engineering, Bangalore
